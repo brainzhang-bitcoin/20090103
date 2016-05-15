@@ -474,7 +474,7 @@ p.tagline {
 
 #main {
   margin-top: 20px;
-  padding: 0 20px 90px;
+  padding: 0 20px 5px;
   background-color: #fff;
 }
 
@@ -689,7 +689,8 @@ footer .owner {
   background: #222;
   border: 5px solid #444;
   padding: 5px 15px;
-  margin: -67px -10px 35px;
+  margin: -5px auto 10px;
+  width: 960px;
   color: #d6d6d6;
 }
 
