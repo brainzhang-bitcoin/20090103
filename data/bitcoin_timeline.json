@@ -1,20 +1,20 @@
 {
     "title": {
         "media": {
-          "url": "",
-          "caption": "bitcoin, p2p",
+          "url": "images/timeline/bitcoin.jpg",
+          "caption": "the history of bitcoin",
           "credit": ""
         },
         "text": {
           "headline": "bitcoin<br/> 2009/01/03 - ",
-          "text": "<p></p>"
+          "text": "Since 2008, bitcoin adoption has been influenced by a diverse range of factors that have made it one of the most volatile currencies in the world. Yet, despite such volatility, more than 100,000 bitcoin transactions are taking place per day and the volume continues to grow due to the ‘permissionless innovation’ provided by bitcoin’s underlying technology, the blockchain."
         }
     },
     "events": [
       {
         "media": {
-          "url": "images/logo.jpg",
-          "caption": "",
+          "url": "images/timeline/genesis-block.jpg",
+          "caption": "The Genesis Block is mined",
           "credit": ""
         },
         "start_date": {
@@ -23,8 +23,8 @@
           "year": "2009"
         },
         "text": {
-          "headline": "origin",
-          "text": "<p></p>"
+          "headline": "The Genesis Block is mined",
+          "text": "<p>Block 0, the genesis block, is established at 18:15:05 GMT.</p>"
         }
       }
     ]
