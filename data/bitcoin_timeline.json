@@ -3,7 +3,8 @@
         "media": {
           "url": "images/timeline/bitcoin.jpg",
           "caption": "the history of bitcoin",
-          "credit": "images/timeline/mini_credit.jpg"
+          "thumbnail": "images/timeline/mini_credit.jpg",
+          "credit": ""
         },
         "text": {
           "headline": "bitcoin<br/> 2009/01/03 - future ",
@@ -15,7 +16,8 @@
         "media": {
           "url": "images/timeline/genesis-block.jpg",
           "caption": "The Genesis Block is mined",
-          "credit": "images/timeline/mini_credit.jpg"
+          "thumbnail": "images/timeline/mini_credit.jpg",
+          "credit": ""
         },
         "start_date": {
           "month": "1",
