@@ -6,7 +6,7 @@
           "credit": ""
         },
         "text": {
-          "headline": "bitcoin<br/> 2009/01/03 - ",
+          "headline": "bitcoin<br/> 2009/01/03 - future ",
           "text": "Since 2008, bitcoin adoption has been influenced by a diverse range of factors that have made it one of the most volatile currencies in the world. Yet, despite such volatility, more than 100,000 bitcoin transactions are taking place per day and the volume continues to grow due to the ‘permissionless innovation’ provided by bitcoin’s underlying technology, the blockchain."
         }
     },
@@ -24,7 +24,7 @@
         },
         "text": {
           "headline": "The Genesis Block is mined",
-          "text": "<p>Block 0, the genesis block, is established at 18:15:05 GMT.</p>"
+          "text": "<p>Block 0, the genesis block, is established at 18:15:05 GMT.</p><br><a href='https://blockchain.info/block/000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f'>genesis  block</a>"
         }
       }
     ]
