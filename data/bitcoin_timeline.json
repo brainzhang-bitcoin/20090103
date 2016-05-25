@@ -28,6 +28,23 @@
           "headline": "The Genesis Block is mined",
           "text": "<p>Block 0, the genesis block, is established at 18:15:05 GMT.</p><br><a href='https://blockchain.info/block/000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f'>genesis  block</a>"
         }
+      },
+      {
+        "media": {
+          "url": "images/timeline/200910.jpg",
+          "caption": "Bitcoin receives an equivalent value in traditional currencies.",
+          "thumbnail": "images/timeline/mini_credit.jpg",
+          "credit": ""
+        },
+        "start_date": {
+          "month": "10",
+          "day": "1",
+          "year": "2009"
+        },
+        "text": {
+          "headline": "Bitcoin receives an equivalent value in traditional currencies.",
+          "text": "<p>The New Liberty Standard established the value of a Bitcoin at $1 = 1,309 BTC. The equation was derived so as to include the cost of electricity to run the computer that created the Bitcoins in the first place.</p>"
+        }
       }
     ]
 }
