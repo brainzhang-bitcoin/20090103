@@ -31,7 +31,6 @@
       },
       {
         "media": {
-          "url": "images/timeline/200910.jpg",
           "caption": "Bitcoin receives an equivalent value in traditional currencies.",
           "thumbnail": "images/timeline/mini_credit.jpg",
           "credit": ""
@@ -44,6 +43,23 @@
         "text": {
           "headline": "Bitcoin receives an equivalent value in traditional currencies.",
           "text": "<p>The New Liberty Standard established the value of a Bitcoin at $1 = 1,309 BTC. The equation was derived so as to include the cost of electricity to run the computer that created the Bitcoins in the first place.</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "images/timeline/201005.jpg",
+          "caption": "Bitcoin pizza day.",
+          "thumbnail": "images/timeline/mini_credit.jpg",
+          "credit": ""
+        },
+        "start_date": {
+          "month": "05",
+          "day": "1",
+          "year": "2010"
+        },
+        "text": {
+          "headline": "Bitcoin pizza day.",
+          "text": "<p>A programmer living in Florida named Laslo Hanyecz sends 10,000BTC to a volunteer in England, who spent about $25 to order Hanyecz a pizza from Papa John’s. Today that pizza is valued at £1,961,034 and stands as a major milestone in Bitcoin’s history.</p>"
         }
       }
     ]
