@@ -59,6 +59,21 @@
           "headline": "Bitcoin pizza day.",
           "text": "<p>A programmer living in Florida named Laslo Hanyecz sends 10,000BTC to a volunteer in England, who spent about $25 to order Hanyecz a pizza from Papa John’s. Today that pizza is valued at £1,961,034 and stands as a major milestone in Bitcoin’s history.</p>"
         }
+      },
+      {
+        "media": {
+          "caption": "Bitcoin reaches $1 million.",
+          "thumbnail": "images/timeline/mini_credit.jpg",
+          "credit": ""
+        },
+        "start_date": {
+          "month": "10",
+          "year": "2010"
+        },
+        "text": {
+          "headline": "Bitcoin reaches $1 million.",
+          "text": "<p>Based on the number of Bitcoins in circulation at the time, the valuation leads to a surge in Bitcoin value to $0.50/BTC.</p>"
+        }
       }
     ]
 }
