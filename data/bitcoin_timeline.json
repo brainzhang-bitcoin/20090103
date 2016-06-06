@@ -67,12 +67,27 @@
           "credit": ""
         },
         "start_date": {
-          "month": "10",
+          "month": "11",
           "year": "2010"
         },
         "text": {
           "headline": "Bitcoin reaches $1 million.",
           "text": "<p>Based on the number of Bitcoins in circulation at the time, the valuation leads to a surge in Bitcoin value to $0.50/BTC.</p>"
+        }
+      },
+      {
+        "media": {
+          "caption": "Silk Road opened.",
+          "thumbnail": "images/timeline/mini_credit.jpg",
+          "credit": ""
+        },
+        "start_date": {
+          "month": "01",
+          "year": "2011"
+        },
+        "text": {
+          "headline": "Silk Road opened.",
+          "text": "<p>The Silk Road, an illicit drugs marketplace is established, using Bitcoin as an untraceable way to buy and sell drugs online.</p>"
         }
       }
     ]
