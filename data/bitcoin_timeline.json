@@ -28,6 +28,67 @@
           "headline": "The Genesis Block is mined",
           "text": "<p>Block 0, the genesis block, is established at 18:15:05 GMT.</p><br><a href='https://blockchain.info/block/000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f'>genesis  block</a>"
         }
+      },
+      {
+        "media": {
+          "caption": "Bitcoin receives an equivalent value in traditional currencies.",
+          "thumbnail": "images/timeline/mini_credit.jpg",
+          "credit": ""
+        },
+        "start_date": {
+          "month": "10",
+          "year": "2009"
+        },
+        "text": {
+          "headline": "Bitcoin receives an equivalent value in traditional currencies.",
+          "text": "<p>The New Liberty Standard established the value of a Bitcoin at $1 = 1,309 BTC. The equation was derived so as to include the cost of electricity to run the computer that created the Bitcoins in the first place.</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "images/timeline/201005.jpg",
+          "caption": "Bitcoin pizza day.",
+          "thumbnail": "images/timeline/mini_credit.jpg",
+          "credit": ""
+        },
+        "start_date": {
+          "month": "05",
+          "year": "2010"
+        },
+        "text": {
+          "headline": "Bitcoin pizza day.",
+          "text": "<p>A programmer living in Florida named Laslo Hanyecz sends 10,000BTC to a volunteer in England, who spent about $25 to order Hanyecz a pizza from Papa John’s. Today that pizza is valued at £1,961,034 and stands as a major milestone in Bitcoin’s history.</p>"
+        }
+      },
+      {
+        "media": {
+          "caption": "Bitcoin reaches $1 million.",
+          "thumbnail": "images/timeline/mini_credit.jpg",
+          "credit": ""
+        },
+        "start_date": {
+          "month": "11",
+          "year": "2010"
+        },
+        "text": {
+          "headline": "Bitcoin reaches $1 million.",
+          "text": "<p>Based on the number of Bitcoins in circulation at the time, the valuation leads to a surge in Bitcoin value to $0.50/BTC.</p>"
+        }
+      },
+      {
+        "media": {
+          "caption": "Silk Road opened.",
+          "thumbnail": "images/timeline/mini_credit.jpg",
+          "credit": ""
+        },
+        "start_date": {
+          "month": "01",
+          "year": "2011"
+        },
+        "text": {
+          "headline": "Silk Road opened.",
+          "text": "<p>The Silk Road, an illicit drugs marketplace is established, using Bitcoin as an untraceable way to buy and sell drugs online.</p>"
+        }
       }
     ]
 }
