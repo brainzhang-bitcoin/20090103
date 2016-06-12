@@ -89,6 +89,21 @@
           "headline": "Silk Road opened.",
           "text": "<p>The Silk Road, an illicit drugs marketplace is established, using Bitcoin as an untraceable way to buy and sell drugs online.</p>"
         }
+      },
+      {
+        "media": {
+          "caption": "The first major theft takes place.",
+          "thumbnail": "images/timeline/mini_credit.jpg",
+          "credit": ""
+        },
+        "start_date": {
+          "month": "06",
+          "year": "2013"
+        },
+        "text": {
+          "headline": "The first major theft takes place.",
+          "text": "<p>The first major theft takes place. Bitcoin Forum founder allinvain reports having 25,000 BTC taken from his digital wallet, which had an equivalent value of $375,000. In the same month, a major breach of security sees the value of the currency go from $17.51 to $0.01 per Bitcoin.</p>"
+        }
       }
     ]
 }
