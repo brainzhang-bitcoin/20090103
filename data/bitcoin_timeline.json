@@ -92,7 +92,7 @@
       },
       {
         "media": {
-          "caption": "Bitcoin reaches $1 million.",
+          "caption": "Bitcoin market capitalisation reaches $1bn.",
           "thumbnail": "images/timeline/mini_credit.jpg",
           "credit": ""
         },
@@ -101,8 +101,8 @@
           "year": "2013"
         },
         "text": {
-          "headline": "Bitcoin reaches $1 million.",
-          "text": "<p>Bitcoin reaches $1 million.</p>"
+          "headline": "Bitcoin market capitalisation reaches $1bn.",
+          "text": "<p>Bitcoin market capitalisation reaches $1bn.</p>"
         }
       },
       {
