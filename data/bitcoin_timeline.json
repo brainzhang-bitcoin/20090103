@@ -132,7 +132,37 @@
         },
         "text": {
           "headline": "Bitcoin price climbs to $700.",
-          "text": "<p>Bitcoin price climbs to $700 in as the US Senate holds its first hearings on the digital currency. The Federal Reserve chairman at the time, Ben Bernanke, gives his blessing to bitcoin. In his letter to the Senate homeland security and government affairs committee, Bernanke states that bitcoin “may hold long-term promise, particularly if the innovations promote a faster, more secure and more efficient payment system”.</p>"
+          "text": "<p>Bitcoin price climbs to $700 in as the US Senate holds its first hearings on the digital currency. The Federal Reserve chairman at the time, Ben Bernanke, gives his blessing to bitcoin. In his letter to the Senate homeland security and government affairs committee, Bernanke states that bitcoin “may hold long-term promise, particularly if the innovations promote a faster, more secure and more efficient payment system.</p>"
+        }
+      },
+      {
+        "media": {
+          "caption": "China’s central bank bars financial institutions from handling bitcoin transactions.",
+          "thumbnail": "images/timeline/mini_credit.jpg",
+          "credit": ""
+        },
+        "start_date": {
+          "month": "12",
+          "year": "2013"
+        },
+        "text": {
+          "headline": "China’s central bank bars financial institutions from handling bitcoin transactions.",
+          "text": "<p>China’s central bank bars financial institutions from handling bitcoin transactions. This ban was issued after the People’s Bank of China said bitcoin is not a currency with “real meaning” and does not have the same legal status as fiat currency. The ban reflects the risk bitcoin poses to China’s capital controls and financial stability. Today China remains the world’s biggest bitcoin trader, with 80% of global bitcoin transactions being processed in China.</p>"
+        }
+      },
+      {
+        "media": {
+          "caption": ">Bitcoin custodians Elliptic launch the world’s first insured bitcoin storage service.",
+          "thumbnail": "images/timeline/mini_credit.jpg",
+          "credit": ""
+        },
+        "start_date": {
+          "month": "01",
+          "year": "2014"
+        },
+        "text": {
+          "headline": "Bitcoin custodians Elliptic launch the world’s first insured bitcoin storage service.",
+          "text": "<p>Bitcoin custodians Elliptic launch the world’s first insured bitcoin storage service for institutional clients. All deposits are comprehensively insured by a Fortune 100 insurer and held in full reserve. This means Elliptic never re-invests client assets; instead they secure them in deep cold storage. Overstock.com becomes the first major online retailer to embrace bitcoin, accepting payments in the US. Overstock was the first in what is now an expeditiously growing list of large businesses that accept bitcoin.</p>"
         }
       }
     ]
