@@ -152,7 +152,7 @@
       },
       {
         "media": {
-          "caption": ">Bitcoin custodians Elliptic launch the world’s first insured bitcoin storage service.",
+          "caption": "Bitcoin custodians Elliptic launch the world’s first insured bitcoin storage service.",
           "thumbnail": "images/timeline/mini_credit.jpg",
           "credit": ""
         },
@@ -163,6 +163,21 @@
         "text": {
           "headline": "Bitcoin custodians Elliptic launch the world’s first insured bitcoin storage service.",
           "text": "<p>Bitcoin custodians Elliptic launch the world’s first insured bitcoin storage service for institutional clients. All deposits are comprehensively insured by a Fortune 100 insurer and held in full reserve. This means Elliptic never re-invests client assets; instead they secure them in deep cold storage. Overstock.com becomes the first major online retailer to embrace bitcoin, accepting payments in the US. Overstock was the first in what is now an expeditiously growing list of large businesses that accept bitcoin.</p>"
+        }
+      },
+      {
+        "media": {
+          "caption": "The US government auctions off more than 29,000 bitcoins seized from the Silk Road.",
+          "thumbnail": "images/timeline/mini_credit.jpg",
+          "credit": ""
+        },
+        "start_date": {
+          "month": "06",
+          "year": "2014"
+        },
+        "text": {
+          "headline": "The US government auctions off more than 29,000 bitcoins seized from the Silk Road.",
+          "text": "<p>The US government auctions off more than 29,000 bitcoins seized from the Silk Road, the illegal online marketplace. The sale and closure of the marketplace marks growing institutional understanding of the potential use cases of bitcoin. Additionally, the closure and auction of the Silk Road has helped bitcoin gain legitimacy as it demonstrates that bitcoin is not an easy way for online criminals to avoid the rule of law.</p>"
         }
       }
     ]
