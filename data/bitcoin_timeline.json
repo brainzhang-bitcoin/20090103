@@ -194,6 +194,21 @@
           "headline": "The ‘Bit Licence’ edges towards reality as the New York State Department of Financial Services releases.",
           "text": "<p>The ‘Bit Licence’ edges towards reality as the New York State Department of Financial Services releases the first draft of the agency’s proposed rules for regulating virtual currencies. The European Banking Authority publishes its opinion on ‘virtual currencies’. Their analytical report recommends that EU legislators consider declaring virtual currency exchanges as ‘obliged entities’ must comply with anti-money laundering (AML) and counter-terrorist financing requirements.</p>"
         }
+      },
+      {
+        "media": {
+          "caption": "Tech giant Microsoft begins accepting bitcoin payments.",
+          "thumbnail": "images/timeline/mini_credit.jpg",
+          "credit": ""
+        },
+        "start_date": {
+          "month": "11",
+          "year": "2014"
+        },
+        "text": {
+          "headline": "Tech giant Microsoft begins accepting bitcoin payments.",
+          "text": "<p>Tech giant Microsoft begins accepting bitcoin payments.</p>"
+        }
       }
     ]
 }
