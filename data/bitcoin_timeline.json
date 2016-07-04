@@ -209,6 +209,36 @@
           "headline": "Tech giant Microsoft begins accepting bitcoin payments.",
           "text": "<p>Tech giant Microsoft begins accepting bitcoin payments.</p>"
         }
+      },
+      {
+        "media": {
+          "caption": "The New York Stock Exchange is a minority investor in Coinbase’s $75M funding round.",
+          "thumbnail": "images/timeline/mini_credit.jpg",
+          "credit": ""
+        },
+        "start_date": {
+          "month": "01",
+          "year": "2015"
+        },
+        "text": {
+          "headline": "The New York Stock Exchange is a minority investor in Coinbase’s $75M funding round.",
+          "text": "<p>The New York Stock Exchange is a minority investor in Coinbase’s $75M funding round. The NYSE aims to tap into the new asset class by bringing transparency, security and confidence to bitcoin.</p>"
+        }
+      },
+      {
+        "media": {
+          "caption": "The results of the UK Treasury’s call for information on digital currency are announced.",
+          "thumbnail": "images/timeline/mini_credit.jpg",
+          "credit": ""
+        },
+        "start_date": {
+          "month": "03",
+          "year": "2015"
+        },
+        "text": {
+          "headline": "The results of the UK Treasury’s call for information on digital currency are announced.",
+          "text": "<p>The results of the UK Treasury’s call for information on digital currency are announced.</p>"
+        }
       }
     ]
 }
