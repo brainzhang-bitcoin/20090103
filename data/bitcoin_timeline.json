@@ -272,7 +272,7 @@
       },
       {
         "media": {
-          "caption": "Bip 101 was reverted[9] and the 2-MB blocksize bump of Bitcoin Classic was applied instead.",
+          "caption": "Bip 101 was reverted and the 2-MB blocksize bump of Bitcoin Classic was applied instead.",
           "thumbnail": "images/timeline/mini_credit.jpg",
           "credit": ""
         },
@@ -281,8 +281,8 @@
           "year": "2016"
         },
         "text": {
-          "headline": "Bip 101 was reverted[9] and the 2-MB blocksize bump of Bitcoin Classic was applied instead.",
-          "text": "<p>Bitcoin Classic Release 0.11.2 release, Bip 101 was reverted[9] and the 2-MB blocksize bump of Bitcoin Classic was applied instead.</p>"
+          "headline": "Bip 101 was reverted and the 2-MB blocksize bump of Bitcoin Classic was applied instead.",
+          "text": "<p>Bitcoin Classic Release 0.11.2 release, Bip 101 was reverted and the 2-MB blocksize bump of Bitcoin Classic was applied instead.</p>"
         }
       }
     ]
