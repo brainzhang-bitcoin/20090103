@@ -239,6 +239,51 @@
           "headline": "The results of the UK Treasury’s call for information on digital currency are announced.",
           "text": "<p>The results of the UK Treasury’s call for information on digital currency are announced.</p>"
         }
+      },
+      {
+        "media": {
+          "caption": "Gavin Andresen published BIP 101 calling for an increase in the maximum block size.",
+          "thumbnail": "images/timeline/mini_credit.jpg",
+          "credit": ""
+        },
+        "start_date": {
+          "month": "06",
+          "year": "2015"
+        },
+        "text": {
+          "headline": "Gavin Andresen published BIP 101 calling for an increase in the maximum block size.",
+          "text": "<p>Gavin Andresen published BIP 101 calling for an increase in the maximum block size. The changes would activate a fork allowing 8 MB blocks (with doublings every two years) once 75% of a stretch of 1000 mined blocks is achieved after the beginning of 2016.</p>"
+        }
+      },
+      {
+        "media": {
+          "caption": "BitcoinXT version 0.11A was released to the public.",
+          "thumbnail": "images/timeline/mini_credit.jpg",
+          "credit": ""
+        },
+        "start_date": {
+          "month": "08",
+          "year": "2015"
+        },
+        "text": {
+          "headline": "BitcoinXT version 0.11A was released to the public.",
+          "text": "<p>BitcoinXT version 0.11A was released to the public.</p>"
+        }
+      },
+      {
+        "media": {
+          "caption": "Bip 101 was reverted[9] and the 2-MB blocksize bump of Bitcoin Classic was applied instead.",
+          "thumbnail": "images/timeline/mini_credit.jpg",
+          "credit": ""
+        },
+        "start_date": {
+          "month": "02",
+          "year": "2016"
+        },
+        "text": {
+          "headline": "Bip 101 was reverted[9] and the 2-MB blocksize bump of Bitcoin Classic was applied instead.",
+          "text": "<p>Bitcoin Classic Release 0.11.2 release, Bip 101 was reverted[9] and the 2-MB blocksize bump of Bitcoin Classic was applied instead.</p>"
+        }
       }
     ]
 }
