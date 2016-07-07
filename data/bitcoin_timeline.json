@@ -284,6 +284,21 @@
           "headline": "Bip 101 was reverted and the 2-MB blocksize bump of Bitcoin Classic was applied instead.",
           "text": "<p>Bitcoin Classic Release 0.11.2 release, Bip 101 was reverted and the 2-MB blocksize bump of Bitcoin Classic was applied instead.</p>"
         }
+      },
+      {
+        "media": {
+          "caption": "bitcoin Reward-Drop",
+          "thumbnail": "images/timeline/mini_credit.jpg",
+          "credit": ""
+        },
+        "start_date": {
+          "month": "07",
+          "year": "2016"
+        },
+        "text": {
+          "headline": "bitcoin Reward-Drop",
+          "text": "<p>bitcoin Reward-Drop.</p>"
+        }
       }
     ]
 }
