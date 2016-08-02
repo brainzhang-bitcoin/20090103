@@ -299,6 +299,21 @@
           "headline": "bitcoin Reward-Drop for the second time",
           "text": "<p>bitcoin Reward-Drop for the second time at 2016-07-09 16:46:13-UTC: <a href='https://blockchain.info/block-index/1118316/000000000000000002cce816c0ab2c5c269cb081896b7dcb34b8422d6b74ffa1'>block 420000</a></p>"
         }
+      },
+      {
+        "media": {
+          "caption": "Bitfinex lost 119756btc",
+          "thumbnail": "images/timeline/mini_credit.jpg",
+          "credit": ""
+        },
+        "start_date": {
+          "month": "08",
+          "year": "2016"
+        },
+        "text": {
+          "headline": "Bitfinex lost 119756btc",
+          "text": "<p>119,756 BTC lost in bitfinex hack!</p>"
+        }
       }
     ]
 }
