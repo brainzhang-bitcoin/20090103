@@ -314,6 +314,21 @@
           "headline": "Bitfinex lost 119756btc",
           "text": "<p>119,756 BTC lost in bitfinex hack!</p>"
         }
-      }
+      },
+      {
+        "media": {
+          "caption": "bitcoin hard folk split in two: bitcoin and bitcoin cash",
+          "thumbnail": "images/timeline/mini_credit.jpg",
+          "credit": ""
+        },
+        "start_date": {
+          "month": "08",
+          "year": "2017"
+        },
+        "text": {
+          "headline": "bitcoin hard folk split in two: bitcoin and bitcoin cash",
+          "text": "<p>A group of developers wanting to increase bitcoin's block size limit prepared a code change. The change, called a hard fork, took effect on 1 August 2017. As a result, the bitcoin ledger called the blockchain and the cryptocurrency split in two.[5] At the time of the fork anyone owning bitcoin was also in possession of the same number of Bitcoin Cash units.</p>"
+        }
+      }        
     ]
 }
