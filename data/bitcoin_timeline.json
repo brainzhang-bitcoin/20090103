@@ -327,8 +327,23 @@
         },
         "text": {
           "headline": "bitcoin hard folk split in two: bitcoin and bitcoin cash",
-          "text": "<p>A group of developers wanting to increase bitcoin's block size limit prepared a code change. The change, called a hard fork, took effect on 1 August 2017. As a result, the bitcoin ledger called the blockchain and the cryptocurrency split in two.[5] At the time of the fork anyone owning bitcoin was also in possession of the same number of Bitcoin Cash units.</p>"
+          "text": "<p>A group of developers wanting to increase bitcoin's block size limit prepared a code change. The change, called a hard fork, took effect on 1 August 2017. As a result, the bitcoin ledger called the blockchain and the cryptocurrency split in two. At the time of the fork anyone owning bitcoin was also in possession of the same number of Bitcoin Cash units.</p>"
         }
-      }        
+      },
+      {
+        "media": {
+          "caption": "Bitcoin Cash hard forlk split in two: bitcoin ABC and bitcoin SV",
+          "thumbnail": "images/timeline/mini_credit.jpg",
+          "credit": ""
+        },
+        "start_date": {
+          "month": "11",
+          "year": "2018"
+        },
+        "text": {
+          "headline": "Bitcoin Cash hard forlk split in two: bitcoin ABC and bitcoin SV",
+          "text": "<p>A hard-fork of Bitcoin Cash occurred between two rival groups called Bitcoin ABC and Bitcoin SV.</p>"
+        }
+      }       
     ]
 }
