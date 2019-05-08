@@ -374,7 +374,7 @@
         },
         "text": {
           "headline": "Binance reports a loss of 7,000 BTC, valued at $42 million at current values.",
-          "text": "<p>Binance has lost 7000 BTC from their hot wallet. This is 2% of their total bitcoin holdings. They have funds to cover customers according to their announcement.</p><a href="https://www.blockchain.com/btc/tx/e8b406091959700dbffcff30a60b190133721e5c39e89bb5fe23c5a554ab05ea">Here is the transaction</a> "
+          "text": "<p>Binance has lost 7000 BTC from their hot wallet. This is 2% of their total bitcoin holdings. They have funds to cover customers according to their announcement.</p><a href='https://www.blockchain.com/btc/tx/e8b406091959700dbffcff30a60b190133721e5c39e89bb5fe23c5a554ab05ea'>Here is the transaction</a> "
         }
       }         
     ]
