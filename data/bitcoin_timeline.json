@@ -376,6 +376,22 @@
           "headline": "Binance reports a loss of 7,000 BTC, valued at $42 million at current values.",
           "text": "<p>Binance has lost 7000 BTC from their hot wallet. This is 2% of their total bitcoin holdings. They have funds to cover customers according to their announcement.</p><a href='https://www.blockchain.com/btc/tx/e8b406091959700dbffcff30a60b190133721e5c39e89bb5fe23c5a554ab05ea'>Here is the transaction</a> "
         }
-      }         
+      },
+      {
+        "media": {
+          "caption": "Happy 11th birthday bitcoin!",
+          "thumbnail": "images/timeline/mini_credit.jpg",
+          "credit": ""
+        },
+        "start_date": {
+          "month": "1",
+          "day": "3",
+          "year": "2020"
+        },
+        "text": {
+          "headline": "Happy 11th birthday bitcoin!",
+          "text": "<p>Block 0, the genesis block, is established at 18:15:05 GMT.</p><br><a href='https://blockchain.info/block/000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f'>genesis  block，bitcoin has 11 years old today, Happy 11th birthday bitcoin!</a>"
+        }
+      }        
     ]
 }
