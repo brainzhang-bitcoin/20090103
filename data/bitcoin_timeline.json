@@ -392,6 +392,23 @@
           "headline": "Happy 11th birthday bitcoin!",
           "text": "<p>Block 0, the genesis block, is established at 18:15:05 GMT.</p><br><a href='https://blockchain.info/block/000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f'>genesis  block，bitcoin has 11 years old today, Happy 11th birthday bitcoin!</a>"
         }
-      }        
+      },
+      {
+        "media": {
+          "url": "images/timeline/3halving.jpg",
+          "caption": "The third Bitcoin Halving complete.",
+          "thumbnail": "images/timeline/mini_credit.jpg",
+          "credit": ""
+        },
+        "start_date": {
+          "month": "5",
+          "day": "11",
+          "year": "2020"
+        },
+        "text": {
+          "headline": "The third Bitcoin Halving is now complete.",
+          "text": "<p>As of now, 630,000 blocks have been mined on the Bitcoin network, and the block reward has successfully halved for the THIRD time. The previous block reward was 12.5 BTC, and the new block reward is now 6.25 BTC. Since the previous halving at Block 210000, monetary inflation decreased from 4.17%% to 3.57%. Block 630000 signals an immediate 50% reduction to 1.79%. The next halving will occur at Block 840000 in approximately four years. Godspeed, Bitcoin!</p> "
+        }
+      }
     ]
 }
