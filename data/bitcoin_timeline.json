@@ -409,6 +409,22 @@
           "headline": "The third Bitcoin Halving is now complete.",
           "text": "<p>As of now, 630,000 blocks have been mined on the Bitcoin network, and the block reward has successfully halved for the THIRD time. The previous block reward was 12.5 BTC, and the new block reward is now 6.25 BTC. Since the previous halving at Block 210000, monetary inflation decreased from 4.17%% to 3.57%. Block 630000 signals an immediate 50% reduction to 1.79%. The next halving will occur at Block 840000 in approximately four years. Godspeed, Bitcoin!</p> "
         }
-      }
+      },
+      {
+        "media": {
+          "caption": "Bitcoin price break 25K on the 25th.",
+          "thumbnail": "images/timeline/mini_credit.jpg",
+          "credit": ""
+        },
+        "start_date": {
+          "month": "12",
+          "day": "25",
+          "year": "2020"
+        },
+        "text": {
+          "headline": "Bitcoin price break 25K on the 25th.",
+          "text": "<p>Bitcoin is now the 24th largest currency in the world. Passing Isreal, Turkey, and Vietnam's currencies. Godspeed, Bitcoin!</p> "
+        }
+      }        
     ]
 }
