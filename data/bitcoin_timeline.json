@@ -425,6 +425,22 @@
           "headline": "Bitcoin price break 25K on the 25th.",
           "text": "<p>Bitcoin is now the 24th largest currency in the world. Passing Isreal, Turkey, and Vietnam's currencies. Godspeed, Bitcoin!</p> "
         }
-      }        
+      },
+      {
+        "media": {
+          "caption": "Tesla Buys $1.5 Billion Of Bitcoin.",
+          "thumbnail": "images/timeline/mini_credit.jpg",
+          "credit": ""
+        },
+        "start_date": {
+          "month": "02",
+          "day": "08",
+          "year": "2021"
+        },
+        "text": {
+          "headline": "Tesla Buys $1.5 Billion Of Bitcoin",
+          "text": "<p>Elon Musk’s multi-billion dollar company, Tesla, has purchased an aggregate $1.5 billion of BTC and will begin to accept the cryptocurrency as payment</p> "
+        }
+      }         
     ]
 }
